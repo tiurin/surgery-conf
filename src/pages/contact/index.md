@@ -1,6 +1,6 @@
 ---
 templateKey: contact-page
-title: Контакт
+title: Contacts
 ---
 ![](/img/contacts.jpg)
 

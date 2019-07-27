@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: Корисна інформація
+title: Useful Info
 ---
 ![клініка "Оберіг"](/img/обериг.jpg "клініка \"Оберіг\"")
 
