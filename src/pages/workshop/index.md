@@ -1,6 +1,6 @@
 ---
 templateKey: workshop-page
-title: Майстер-клас
+title: Workshop
 ---
 ![](/img/20141001_164555.jpg)
 
