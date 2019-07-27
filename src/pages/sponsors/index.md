@@ -1,6 +1,6 @@
 ---
 templateKey: sponsors-page
-heading: Спонсори
+heading: Sponsors
 description: 'Конференція є можливою завдяки підтримці наших спонсорів:'
 intro:
   blurbs:
