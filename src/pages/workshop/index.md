@@ -2,7 +2,7 @@
 templateKey: workshop-page
 title: Майстер-клас
 ---
-![](/img/20141001_164555.jpg)
+![](/img/laparoscopic-trainer-box-surgery-practicing-surgical-training1.jpg)
 
 ### Майстер-клас
 
