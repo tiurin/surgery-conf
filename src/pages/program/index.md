@@ -203,15 +203,13 @@ main:
 
 ### Олександр Гладкий (Україна) / Olexandr Gladky (Ukraine)
 
-### 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### 10.40-10.50 Досвід використання ендоваскулярної емболізації селезінкової артерії для корекції важкого гіперспленізму у дітей з портальною гіпертензією.
 
 ### Experience with the application of endovascular spleen artery embolization for severe hypersplenism management in children with portal hypertension
 
-### Кандратьєва Ольга (Білорусь) / Kandratieva Olga (Belarus)
+### Ольга Кандратьєва (Білорусь) / Olga Kandratieva (Belarus)
 
 ### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -227,7 +225,7 @@ main:
 
 ### Surgical management of portal hypertension in children
 
-### Заполянський Андрій (Білорусь) / Zapolianskiy Andrey (Belarus)
+### Андрій Заполянський (Білорусь) / Andrey Zapolianskiy (Belarus)
 
 ### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -271,7 +269,7 @@ main:
 
 ### Surgical management of female genital organs developmental anomalies in infants and adolescents
 
-### Бачинська Інна (Україна) / Bachynska Inna (Ukraine)
+### Ірина Гаврилова (Україна) / Iryna Gavrilova (Ukraine)
 
 ### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -279,7 +277,7 @@ main:
 
 ### Foam sclerotherapy for the management of venous malformations in children.
 
-### Мазынский Денис (Білорусь) / Myzinskiy Denis (Belarus)
+### Денис Мазынский (Білорусь) / Denis Myzinskiy (Belarus)
 
 ### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -295,7 +293,7 @@ main:
 
 ### Bowel transplant revascularization for esophago-colo-plasty in children
 
-### Аверин Василь (Білорусь) / Averin Vasyl (Belarus)
+### Василь Аверин (Білорусь) / Vasyl Averin (Belarus)
 
 ### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -303,7 +301,7 @@ main:
 
 ### Alternate esophageal replacement options in children
 
-### Дубровін Олександр (Україна) / Dubrovin Oleksandr (Ukraine)
+### Олександр Дубровін (Україна) / Oleksandr Dubrovin  (Ukraine)
 
 ### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -319,7 +317,7 @@ main:
 
 ### Laparoscopy in pediatric and adolescent gynaecology
 
-### Бачинська Інна (Україна) / Bachynska Inna (Ukraine)
+### Інна Бачинська (Україна) /  Inna Bachynska (Ukraine)
 
 ### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
