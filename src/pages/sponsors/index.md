@@ -7,8 +7,9 @@ intro:
     - image: /img/images.jpg
       text: |
         KARL STORZ Ukraine
-    - image: /img/no-translate-detected_318-58762.jpg
-      text: |
-        тут може бути ваше лого
+    - image: /img/grany-smith-logo-color.jpg
+      text: >
+        Грени Смит - медичне обладнання та матеріали для загальної та
+        лапароскопічної хірургії, кардіології ті стерилізації інструментів.
 ---
 
