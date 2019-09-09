@@ -19,5 +19,7 @@ intro:
         від 6 місяців.
     - image: /img/макет_zdoroveika-out.jpg
       text: Здоровейка - PediaSure
+    - image: /img/svarmed.jpg
+      text: Біозварювання - "СварМед"
 ---
 
