@@ -21,5 +21,7 @@ intro:
       text: Здоровейка - PediaSure
     - image: /img/svarmed.jpg
       text: Біозварювання - "СварМед"
+    - image: /img/bbraun-se-green-logo.jpg
+      text: B-Braun sharing expertise
 ---
 
